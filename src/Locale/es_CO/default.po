@@ -1,0 +1,921 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-03-24 12:33+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AutomovilsClientsController.php:58;85
+msgid "The automovils client has been saved."
+msgstr ""
+
+#: Controller/AutomovilsClientsController.php:62;89
+msgid "The automovils client could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AutomovilsClientsController.php:109
+msgid "The automovils client has been deleted."
+msgstr ""
+
+#: Controller/AutomovilsClientsController.php:111
+msgid "The automovils client could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AutomovilsController.php:58;86
+msgid "The automovil has been saved."
+msgstr ""
+
+#: Controller/AutomovilsController.php:62;90
+msgid "The automovil could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AutomovilsController.php:111
+msgid "The automovil has been deleted."
+msgstr ""
+
+#: Controller/AutomovilsController.php:113
+msgid "The automovil could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BonosController.php:58;84
+msgid "The bono has been saved."
+msgstr ""
+
+#: Controller/BonosController.php:62;88
+msgid "The bono could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BonosController.php:107
+msgid "The bono has been deleted."
+msgstr ""
+
+#: Controller/BonosController.php:109
+msgid "The bono could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CategoriasController.php:55;80
+msgid "The categoria has been saved."
+msgstr ""
+
+#: Controller/CategoriasController.php:59;84
+msgid "The categoria could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriasController.php:102
+msgid "The categoria has been deleted."
+msgstr ""
+
+#: Controller/CategoriasController.php:104
+msgid "The categoria could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:55;81
+msgid "The client has been saved."
+msgstr ""
+
+#: Controller/ClientsController.php:59;85
+msgid "The client could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:104
+msgid "The client has been deleted."
+msgstr ""
+
+#: Controller/ClientsController.php:106
+msgid "The client could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TiposController.php:55;80
+msgid "The tipo has been saved."
+msgstr ""
+
+#: Controller/TiposController.php:59;84
+msgid "The tipo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TiposController.php:102
+msgid "The tipo has been deleted."
+msgstr ""
+
+#: Controller/TiposController.php:104
+msgid "The tipo could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Automovils/add.ctp:8
+#: Template/Automovils/edit.ctp:8
+#: Template/Automovils/index.ctp:8;28
+#: Template/Automovils/view.ctp:8;53
+#: Template/AutomovilsClients/add.ctp:8
+#: Template/AutomovilsClients/edit.ctp:8
+#: Template/AutomovilsClients/index.ctp:8;27
+#: Template/AutomovilsClients/view.ctp:8
+#: Template/Bonos/add.ctp:8
+#: Template/Bonos/edit.ctp:8
+#: Template/Bonos/index.ctp:8;23
+#: Template/Bonos/view.ctp:8
+#: Template/Categorias/add.ctp:8
+#: Template/Categorias/edit.ctp:8
+#: Template/Categorias/index.ctp:8;22
+#: Template/Categorias/view.ctp:8;43
+#: Template/Clients/add.ctp:8
+#: Template/Clients/edit.ctp:8
+#: Template/Clients/index.ctp:8;24
+#: Template/Clients/view.ctp:8;44;72
+#: Template/Tipos/add.ctp:8
+#: Template/Tipos/edit.ctp:8
+#: Template/Tipos/index.ctp:8;22
+#: Template/Tipos/view.ctp:8;43
+msgid "Actions"
+msgstr "Acciones"
+
+#: Template/Automovils/add.ctp:9
+#: Template/Automovils/edit.ctp:15
+#: Template/Automovils/view.ctp:11
+#: Template/AutomovilsClients/add.ctp:10
+#: Template/AutomovilsClients/edit.ctp:16
+#: Template/AutomovilsClients/index.ctp:10
+#: Template/AutomovilsClients/view.ctp:13
+#: Template/Categorias/add.ctp:10
+#: Template/Categorias/edit.ctp:16
+#: Template/Categorias/index.ctp:10
+#: Template/Categorias/view.ctp:13
+#: Template/Clients/add.ctp:12
+#: Template/Clients/edit.ctp:18
+#: Template/Clients/index.ctp:12
+#: Template/Clients/view.ctp:15
+#: Template/Tipos/add.ctp:10
+#: Template/Tipos/edit.ctp:16
+#: Template/Tipos/index.ctp:10
+#: Template/Tipos/view.ctp:13
+msgid "List Automovils"
+msgstr ""
+
+#: Template/Automovils/add.ctp:10
+#: Template/Automovils/edit.ctp:16
+#: Template/Automovils/index.ctp:10
+#: Template/Automovils/view.ctp:13
+#: Template/Categorias/add.ctp:9
+#: Template/Categorias/edit.ctp:15
+#: Template/Categorias/view.ctp:11
+#: Template/Pages/home.ctp:59
+msgid "List Categorias"
+msgstr ""
+
+#: Template/Automovils/add.ctp:11
+#: Template/Automovils/edit.ctp:17
+#: Template/Automovils/index.ctp:11
+#: Template/Automovils/view.ctp:14
+#: Template/Categorias/index.ctp:9
+#: Template/Categorias/view.ctp:12
+#: Template/Pages/home.ctp:60
+msgid "New Categoria"
+msgstr ""
+
+#: Template/Automovils/add.ctp:12
+#: Template/Automovils/edit.ctp:18
+#: Template/Automovils/index.ctp:12
+#: Template/Automovils/view.ctp:15
+#: Template/Pages/home.ctp:61
+#: Template/Tipos/add.ctp:9
+#: Template/Tipos/edit.ctp:15
+#: Template/Tipos/view.ctp:11
+msgid "List Tipos"
+msgstr ""
+
+#: Template/Automovils/add.ctp:13
+#: Template/Automovils/edit.ctp:19
+#: Template/Automovils/index.ctp:13
+#: Template/Automovils/view.ctp:16
+#: Template/Pages/home.ctp:62
+#: Template/Tipos/index.ctp:9
+#: Template/Tipos/view.ctp:12
+msgid "New Tipo"
+msgstr ""
+
+#: Template/Automovils/add.ctp:14
+#: Template/Automovils/edit.ctp:20
+#: Template/Automovils/index.ctp:14
+#: Template/Automovils/view.ctp:17
+#: Template/AutomovilsClients/add.ctp:12
+#: Template/AutomovilsClients/edit.ctp:18
+#: Template/AutomovilsClients/index.ctp:12
+#: Template/AutomovilsClients/view.ctp:15
+#: Template/Bonos/add.ctp:10
+#: Template/Bonos/edit.ctp:16
+#: Template/Bonos/index.ctp:10
+#: Template/Bonos/view.ctp:13
+#: Template/Clients/add.ctp:9
+#: Template/Clients/edit.ctp:15
+#: Template/Clients/view.ctp:11
+#: Template/Pages/home.ctp:63
+msgid "List Clients"
+msgstr ""
+
+#: Template/Automovils/add.ctp:15
+#: Template/Automovils/edit.ctp:21
+#: Template/Automovils/index.ctp:15
+#: Template/Automovils/view.ctp:18
+#: Template/AutomovilsClients/add.ctp:13
+#: Template/AutomovilsClients/edit.ctp:19
+#: Template/AutomovilsClients/index.ctp:13
+#: Template/AutomovilsClients/view.ctp:16
+#: Template/Bonos/add.ctp:11
+#: Template/Bonos/edit.ctp:17
+#: Template/Bonos/index.ctp:11
+#: Template/Bonos/view.ctp:14
+#: Template/Clients/index.ctp:9
+#: Template/Clients/view.ctp:12
+#: Template/Pages/home.ctp:64
+msgid "New Client"
+msgstr ""
+
+#: Template/Automovils/add.ctp:21
+msgid "Add Automovil"
+msgstr ""
+
+#: Template/Automovils/add.ctp:30
+#: Template/Automovils/edit.ctp:36
+#: Template/AutomovilsClients/add.ctp:28
+#: Template/AutomovilsClients/edit.ctp:34
+#: Template/Bonos/add.ctp:24
+#: Template/Bonos/edit.ctp:30
+#: Template/Categorias/add.ctp:23
+#: Template/Categorias/edit.ctp:29
+#: Template/Clients/add.ctp:26
+#: Template/Clients/edit.ctp:32
+#: Template/Tipos/add.ctp:23
+#: Template/Tipos/edit.ctp:29
+#: View/Helper/FormHelper.php:1887
+msgid "Submit"
+msgstr ""
+
+#: Template/Automovils/edit.ctp:10
+#: Template/Automovils/index.ctp:42
+#: Template/Automovils/view.ctp:63
+#: Template/AutomovilsClients/edit.ctp:10
+#: Template/AutomovilsClients/index.ctp:42
+#: Template/Bonos/edit.ctp:10
+#: Template/Bonos/index.ctp:36
+#: Template/Categorias/edit.ctp:10
+#: Template/Categorias/index.ctp:34
+#: Template/Categorias/view.ctp:55
+#: Template/Clients/edit.ctp:10
+#: Template/Clients/index.ctp:36
+#: Template/Clients/view.ctp:55;84
+#: Template/Tipos/edit.ctp:10
+#: Template/Tipos/index.ctp:34
+#: Template/Tipos/view.ctp:55
+msgid "Delete"
+msgstr ""
+
+#: Template/Automovils/edit.ctp:12
+#: Template/Automovils/index.ctp:42
+#: Template/Automovils/view.ctp:10;63
+#: Template/AutomovilsClients/edit.ctp:12
+#: Template/AutomovilsClients/index.ctp:42
+#: Template/AutomovilsClients/view.ctp:10
+#: Template/Bonos/edit.ctp:12
+#: Template/Bonos/index.ctp:36
+#: Template/Bonos/view.ctp:10
+#: Template/Categorias/edit.ctp:12
+#: Template/Categorias/index.ctp:34
+#: Template/Categorias/view.ctp:10;55
+#: Template/Clients/edit.ctp:12
+#: Template/Clients/index.ctp:36
+#: Template/Clients/view.ctp:10;55;84
+#: Template/Tipos/edit.ctp:12
+#: Template/Tipos/index.ctp:34
+#: Template/Tipos/view.ctp:10;55
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Automovils/edit.ctp:27
+#: Template/Automovils/view.ctp:9
+msgid "Edit Automovil"
+msgstr ""
+
+#: Template/Automovils/index.ctp:9
+#: Template/Automovils/view.ctp:12
+#: Template/AutomovilsClients/add.ctp:11
+#: Template/AutomovilsClients/edit.ctp:17
+#: Template/AutomovilsClients/index.ctp:11
+#: Template/AutomovilsClients/view.ctp:14
+#: Template/Categorias/add.ctp:11
+#: Template/Categorias/edit.ctp:17
+#: Template/Categorias/index.ctp:11
+#: Template/Categorias/view.ctp:14
+#: Template/Clients/add.ctp:13
+#: Template/Clients/edit.ctp:19
+#: Template/Clients/index.ctp:13
+#: Template/Clients/view.ctp:16
+#: Template/Tipos/add.ctp:11
+#: Template/Tipos/edit.ctp:17
+#: Template/Tipos/index.ctp:11
+#: Template/Tipos/view.ctp:14
+msgid "New Automovil"
+msgstr "Añadir automovil"
+
+#: Template/Automovils/index.ctp:19
+msgid "Automovils"
+msgstr ""
+
+#: Template/Automovils/index.ctp:40
+#: Template/Automovils/view.ctp:61
+#: Template/AutomovilsClients/index.ctp:40
+#: Template/Bonos/index.ctp:34
+#: Template/Categorias/index.ctp:32
+#: Template/Categorias/view.ctp:53
+#: Template/Clients/index.ctp:34
+#: Template/Clients/view.ctp:53;82
+#: Template/Tipos/index.ctp:32
+#: Template/Tipos/view.ctp:53
+msgid "View"
+msgstr ""
+
+#: Template/Automovils/index.ctp:41
+#: Template/Automovils/view.ctp:62
+#: Template/AutomovilsClients/index.ctp:41
+#: Template/Bonos/index.ctp:35
+#: Template/Categorias/index.ctp:33
+#: Template/Categorias/view.ctp:54
+#: Template/Clients/index.ctp:35
+#: Template/Clients/view.ctp:54;83
+#: Template/Tipos/index.ctp:33
+#: Template/Tipos/view.ctp:54
+msgid "Edit"
+msgstr ""
+
+#: Template/Automovils/index.ctp:50
+#: Template/AutomovilsClients/index.ctp:50
+#: Template/Bonos/index.ctp:44
+#: Template/Categorias/index.ctp:42
+#: Template/Clients/index.ctp:44
+#: Template/Tipos/index.ctp:42
+msgid "first"
+msgstr ""
+
+#: Template/Automovils/index.ctp:51
+#: Template/AutomovilsClients/index.ctp:51
+#: Template/Bonos/index.ctp:45
+#: Template/Categorias/index.ctp:43
+#: Template/Clients/index.ctp:45
+#: Template/Tipos/index.ctp:43
+msgid "previous"
+msgstr ""
+
+#: Template/Automovils/index.ctp:53
+#: Template/AutomovilsClients/index.ctp:53
+#: Template/Bonos/index.ctp:47
+#: Template/Categorias/index.ctp:45
+#: Template/Clients/index.ctp:47
+#: Template/Tipos/index.ctp:45
+msgid "next"
+msgstr ""
+
+#: Template/Automovils/index.ctp:54
+#: Template/AutomovilsClients/index.ctp:54
+#: Template/Bonos/index.ctp:48
+#: Template/Categorias/index.ctp:46
+#: Template/Clients/index.ctp:48
+#: Template/Tipos/index.ctp:46
+msgid "last"
+msgstr ""
+
+#: Template/Automovils/index.ctp:56
+#: Template/AutomovilsClients/index.ctp:56
+#: Template/Bonos/index.ctp:50
+#: Template/Categorias/index.ctp:48
+#: Template/Clients/index.ctp:50
+#: Template/Tipos/index.ctp:48
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Automovils/view.ctp:10
+msgid "Delete Automovil"
+msgstr ""
+
+#: Template/Automovils/view.ctp:25
+#: Template/Categorias/view.ctp:39
+#: Template/Clients/view.ctp:68
+#: Template/Tipos/view.ctp:39
+msgid "Placa"
+msgstr ""
+
+#: Template/Automovils/view.ctp:29
+msgid "Categoria"
+msgstr ""
+
+#: Template/Automovils/view.ctp:33
+msgid "Tipo"
+msgstr ""
+
+#: Template/Automovils/view.ctp:37;50
+#: Template/AutomovilsClients/view.ctp:31
+#: Template/Bonos/view.ctp:25
+#: Template/Categorias/view.ctp:25;38
+#: Template/Clients/view.ctp:31;40;67
+#: Template/Tipos/view.ctp:25;38
+msgid "Id"
+msgstr ""
+
+#: Template/Automovils/view.ctp:41
+#: Template/Categorias/view.ctp:40
+#: Template/Clients/view.ctp:69
+#: Template/Tipos/view.ctp:40
+msgid "Klmts"
+msgstr ""
+
+#: Template/Automovils/view.ctp:46
+msgid "Related Clients"
+msgstr ""
+
+#: Template/Automovils/view.ctp:51
+#: Template/Categorias/view.ctp:21
+#: Template/Clients/view.ctp:23
+#: Template/Tipos/view.ctp:21
+msgid "Name"
+msgstr ""
+
+#: Template/Automovils/view.ctp:52
+#: Template/Clients/view.ctp:27
+msgid "Snvip"
+msgstr ""
+
+#: Template/AutomovilsClients/add.ctp:9
+#: Template/AutomovilsClients/edit.ctp:15
+#: Template/AutomovilsClients/view.ctp:11
+msgid "List Automovils Clients"
+msgstr ""
+
+#: Template/AutomovilsClients/add.ctp:19
+msgid "Add Automovils Client"
+msgstr ""
+
+#: Template/AutomovilsClients/edit.ctp:25
+#: Template/AutomovilsClients/view.ctp:9
+msgid "Edit Automovils Client"
+msgstr ""
+
+#: Template/AutomovilsClients/index.ctp:9
+#: Template/AutomovilsClients/view.ctp:12
+msgid "New Automovils Client"
+msgstr ""
+
+#: Template/AutomovilsClients/index.ctp:17
+msgid "Automovils Clients"
+msgstr ""
+
+#: Template/AutomovilsClients/view.ctp:10
+msgid "Delete Automovils Client"
+msgstr ""
+
+#: Template/AutomovilsClients/view.ctp:23
+msgid "Automovil"
+msgstr ""
+
+#: Template/AutomovilsClients/view.ctp:27
+#: Template/Bonos/view.ctp:21
+msgid "Client"
+msgstr "Cliente"
+
+#: Template/AutomovilsClients/view.ctp:35
+msgid "Psvalor Cobrar"
+msgstr ""
+
+#: Template/AutomovilsClients/view.ctp:39
+msgid "Feprestamo"
+msgstr ""
+
+#: Template/AutomovilsClients/view.ctp:43
+msgid "Fedevolucion"
+msgstr ""
+
+#: Template/Bonos/add.ctp:9
+#: Template/Bonos/edit.ctp:15
+#: Template/Bonos/view.ctp:11
+#: Template/Clients/add.ctp:10
+#: Template/Clients/edit.ctp:16
+#: Template/Clients/index.ctp:10
+#: Template/Clients/view.ctp:13
+msgid "List Bonos"
+msgstr ""
+
+#: Template/Bonos/add.ctp:17
+msgid "Add Bono"
+msgstr ""
+
+#: Template/Bonos/edit.ctp:23
+#: Template/Bonos/view.ctp:9
+msgid "Edit Bono"
+msgstr ""
+
+#: Template/Bonos/index.ctp:9
+#: Template/Bonos/view.ctp:12
+#: Template/Clients/add.ctp:11
+#: Template/Clients/edit.ctp:17
+#: Template/Clients/index.ctp:11
+#: Template/Clients/view.ctp:14
+msgid "New Bono"
+msgstr ""
+
+#: Template/Bonos/index.ctp:15
+msgid "Bonos"
+msgstr ""
+
+#: Template/Bonos/view.ctp:10
+msgid "Delete Bono"
+msgstr ""
+
+#: Template/Bonos/view.ctp:29
+#: Template/Clients/view.ctp:42
+msgid "Podescuento"
+msgstr ""
+
+#: Template/Bonos/view.ctp:33
+#: Template/Clients/view.ctp:41
+msgid "Fevencimiento"
+msgstr ""
+
+#: Template/Categorias/add.ctp:17
+msgid "Add Categoria"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:23
+#: Template/Categorias/view.ctp:9
+msgid "Edit Categoria"
+msgstr ""
+
+#: Template/Categorias/index.ctp:15
+msgid "Categorias"
+msgstr ""
+
+#: Template/Categorias/view.ctp:10
+msgid "Delete Categoria"
+msgstr ""
+
+#: Template/Categorias/view.ctp:29
+msgid "Poincremento Alquiler"
+msgstr ""
+
+#: Template/Categorias/view.ctp:34
+#: Template/Clients/view.ctp:63
+#: Template/Tipos/view.ctp:34
+msgid "Related Automovils"
+msgstr ""
+
+#: Template/Categorias/view.ctp:41
+#: Template/Clients/view.ctp:70
+#: Template/Tipos/view.ctp:41
+msgid "Categoria Id"
+msgstr ""
+
+#: Template/Categorias/view.ctp:42
+#: Template/Clients/view.ctp:71
+#: Template/Tipos/view.ctp:42
+msgid "Tipo Id"
+msgstr ""
+
+#: Template/Clients/add.ctp:19
+msgid "Add Client"
+msgstr ""
+
+#: Template/Clients/edit.ctp:25
+#: Template/Clients/view.ctp:9
+msgid "Edit Client"
+msgstr ""
+
+#: Template/Clients/index.ctp:17
+msgid "Clients"
+msgstr ""
+
+#: Template/Clients/view.ctp:10
+msgid "Delete Client"
+msgstr ""
+
+#: Template/Clients/view.ctp:36
+msgid "Related Bonos"
+msgstr ""
+
+#: Template/Clients/view.ctp:43
+msgid "Client Id"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Pages/home.ctp:58
+msgid "New Automovils"
+msgstr ""
+
+#: Template/Tipos/add.ctp:17
+msgid "Add Tipo"
+msgstr ""
+
+#: Template/Tipos/edit.ctp:23
+#: Template/Tipos/view.ctp:9
+msgid "Edit Tipo"
+msgstr ""
+
+#: Template/Tipos/index.ctp:15
+msgid "Tipos"
+msgstr ""
+
+#: Template/Tipos/view.ctp:10
+msgid "Delete Tipo"
+msgstr ""
+
+#: Template/Tipos/view.ctp:29
+msgid "Pscosto Alquiler"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:496
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:155
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:159
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:254
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:256
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2259
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2270
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:899
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1782
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1008
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1011
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:793
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr ""
